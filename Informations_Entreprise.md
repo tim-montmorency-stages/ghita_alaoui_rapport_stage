@@ -1,25 +1,38 @@
 # Informations sur l'entreprise d'accueil
 ## L'entreprise    
 Nom de l'entreprise: Bikini Village
+
 Principaux produits ou services de l'entreprise: La vente de maillots, accessoires de plage, etc. 
-Mission/ Mandat de l'entreprise:    
-Nombre d'employés:         
+
+Mission/ Mandat de l'entreprise: Vendre des maillots à la fois beau et confortable ?
+
+Nombre d'employés:   
+
 Principaux concurrents: ?
+
 Autres informations pertinentes:    
 
 ## Votre superviseur     
 Nom de votre maître de stage: Linda-Caterina Fazio 
+
 Titre de votre maître de stage: Gestionnaire commerce électronique
-Description des tâches de votre maître de stage: Gérer les infolettres et analyser les datas de celles-ci  
+
+Description des tâches de votre maître de stage: Gérer les infolettres et analyser les datas de celles-ci 
+
 Courriel de votre maître de stage: linda-caterina.fazio@bikinivillage.com    
 
 ## L'environnement de travail     
-Lieux (Télétravail ou présence?): Hybride : 4 jours au bureau et 1 journée télétravail 
-Logiciels disponibles: Suite Adobe  
+Lieux (Télétravail ou présence?): Hybride : 4 jours au bureau et 1 journée télétravail
+
+Logiciels disponibles: Suite Adobe 
+
 Équipement disponible (Caméra, ordinateur,...):    
+
 Autres outils mis à votre disposition:    
 
 ## Horaire de travail
 Dates de début et de fin de stage: 1 avril au 17 mai    
+
 Journées de travail dans la semaine: Lundi au vendredi     
+
 Heures d'arrivée et de départ: 9 à 5
