@@ -4,15 +4,16 @@ Nom de l'entreprise: Bikini Village
 
 Principaux produits ou services de l'entreprise: La vente de maillots, accessoires de plage, etc. 
 
-Mission/ Mandat de l'entreprise: Vendre des maillots à la fois beau et confortable ?
+Mission/ Mandat de l'entreprise: Vendre des maillots stylés et confortables
 
-Nombre d'employés:   
+Nombre d'employés: 12 
 
-Principaux concurrents: ?
+Principaux concurrents: Les autres compagnies de maillots
 
-Autres informations pertinentes:    
+Autres informations pertinentes: Bikini Village est une compagnie qui est en lien direct avec La Vie en Rose  
 
 ## Votre superviseur     
+
 Nom de votre maître de stage: Linda-Caterina Fazio 
 
 Titre de votre maître de stage: Gestionnaire commerce électronique
@@ -26,9 +27,7 @@ Lieux (Télétravail ou présence?): Hybride : 4 jours au bureau et 1 journée t
 
 Logiciels disponibles: Suite Adobe 
 
-Équipement disponible (Caméra, ordinateur,...):    
-
-Autres outils mis à votre disposition:    
+Équipement disponible (Caméra, ordinateur,...): Mac, écrans, souris, clavier, casque
 
 ## Horaire de travail
 Dates de début et de fin de stage: 1 avril au 17 mai    
