@@ -31,73 +31,103 @@ Coller mon Word + Maquettes + Scénarimage
 
 #### Liste des équipements ou logiciels utilisés
 
+- Adobe Photoshop
+- Adobe XD
+- Adobe After Effect
+- Salesforce
+- Excel
+- Word
+- Clavier
+- Souris
+- Mac
+- Écrans
+
 #### Faits saillants de la semaine
+
+J'ai eu mon premier dîner en groupe avec mes collègues cette semaine.
 
 #### Nouvelles choses apprises (méthode de travail, tâche, fonction d'un logiciel, équipement,...)
 
-#### Avez-vous accompli l'ensemble de vos tâches et objectifs pour la semaine? Décrivez    
-- [ ] Complètement 
-- [ ] Assez
-- [ ] Un peu
-- [ ] Pas tout à fait    
-Description: (Si non, expliquez comment pallier à la siutation).
+J'ai appris comment monter des vidéos sur Adobe Photoshop.
 
-#### Est-ce que votre mandat ou vos tâches se réalisent selon l'échéancier prévu?    
-- [ ] Complètement 
+#### Avez-vous accompli l'ensemble de vos tâches et objectifs pour la semaine? 
+
+- [X] Complètement 
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait    
-Description: (Si non, expliquez comment pallier à la siutation). 
+
+#### Est-ce que votre mandat ou vos tâches se réalisent selon l'échéancier prévu? 
+
+- [X] Complètement 
+- [ ] Assez
+- [ ] Un peu
+- [ ] Pas tout à fait    
 
 ### La dynamique du stage
+
 #### Je suis satisfait de mon stage jusqu'à maintenant.    
-- [ ] Complètement 
+
+- [X] Complètement 
 - [ ] Assez
 - [ ] Un peu
-- [ ] Pas tout à fait    
+- [ ] Pas tout à fait
+      
 Commentaires:
 
 #### Mon maître de stage en entreprise est présent:  
-- [ ] En tout temps 
+
+- [X] En tout temps 
 - [ ] Régulièrement
 - [ ] Parfois
-- [ ] Rarement    
+- [ ] Rarement
+  
 Commentaires:
 
 #### J'ose poser des questions:
-- [ ] En tout temps 
+
+- [X] En tout temps 
 - [ ] Régulièrement
 - [ ] Parfois
-- [ ] Rarement    
+- [ ] Rarement
+         
 Commentaires sur la supervision et l'encadrement:    
 
 ### Mandat à réaliser
+
 #### Votre projet ou vos tâches sont:
-- [ ] Parfaitement clairs
+
+- [X] Parfaitement clairs
 - [ ] Assez clairs
 - [ ] Peu clairs
 - [ ] Pas clairs du tout    
 
 ####  Les tâches et le mandat confié sont:     
 - [ ] Très faciles
-- [ ] Faciles
+- [X] Faciles
 - [ ] Un peu difficiles
-- [ ] Très difficiles    
+- [ ] Très difficiles
+      
 Commentaires: Aimeriez-vous avoir plus ou moins de défis? 
 
 ####  L'échéancier de production me semble réaliste.
-- [ ] Complètement 
+
+- [X] Complètement 
 - [ ] Assez
 - [ ] Un peu
-- [ ] Pas tout à fait    
+- [ ] Pas tout à fait
+        
 Commentaires:
 
 ### Proposition créative (remplir à la semaine 3 si pas fait)
+
 #### Ma proposition me semble précise, bien ciblée et adéquate.
-- [ ] Très d'accord
+
+- [X] Très d'accord
 - [ ] Assez d'accord
 - [ ] Peu d'accord
-- [ ] Pas d'accord    
+- [ ] Pas d'accord
+        
 Commentaires:    
 
 #### Ma proposition me semble créative et semble répondre aux besoins de l'employeur.
