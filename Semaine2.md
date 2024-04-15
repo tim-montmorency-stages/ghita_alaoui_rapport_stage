@@ -16,7 +16,9 @@ Durant ma semaine 2, je n'ai rencontré aucun problème.
    
 ## Proposition créative
 
-Coller mon Word + Maquettes + Scénarimage
+Pour ma proposition créative, j’aimerais proposer un tout nouveau layout pour le microsite web Tropik. Le design que je veux créer serait en lien avec l’image de la marque et aurait par conséquent des couleurs vives et rosées. De plus, j’aimerais également proposer de monter une petite vidéo publicitaire qui sera présentée dans le hero d’une des pages du microsite en utilisant les médias proposés par la compagnie qui sont disponibles sur le site Canto.
+
+Pour ce qui est des maquettes, moodboard et scénarimages, tout est disponible dans le fichier médias.
 
 ## Questions complémentaires
 
@@ -105,7 +107,8 @@ Commentaires sur la supervision et l'encadrement: Je ne suis pas gênée de pose
 - [ ] Peu clairs
 - [ ] Pas clairs du tout    
 
-####  Les tâches et le mandat confié sont:     
+####  Les tâches et le mandat confié sont:   
+
 - [ ] Très faciles
 - [X] Faciles
 - [ ] Un peu difficiles
@@ -113,7 +116,7 @@ Commentaires sur la supervision et l'encadrement: Je ne suis pas gênée de pose
       
 Commentaires: Aimeriez-vous avoir plus ou moins de défis? 
 
-J'aimerais avoir un peu plus de défis, car je finis med tâches trop rapidement.
+J'aimerais avoir un peu plus de défis, car je finis mes tâches trop rapidement.
 
 ####  L'échéancier de production me semble réaliste.
 
@@ -148,25 +151,28 @@ Commentaires:
 
 #### Je porte une attention aux détails dans la réalisation de mes tâches. 
 
-- [ ] Très d'accord
+- [X] Très d'accord
 - [ ] Assez d'accord
 - [ ] Peu d'accord
 - [ ] Pas d'accord
       
-Commentaires:
+Commentaires: Je m'assure de vérifier tous les critères qui sont demandés pour la tâche avant de l'envoyer pour qu'elle soit approuvée.
 
 #### J'utilise des méthodes de validation efficaces avec l'employeur.se pour m'assurer de la qualité du travail accompli.
 
-- [ ] Très d'accord
+- [X] Très d'accord
 - [ ] Assez d'accord
 - [ ] Peu d'accord
 - [ ] Pas d'accord
       
 Description: Comment est-ce que vous validez le travail avec votre employeur?
 
+Une fois le projet mis pour approbation, la personne en charge s'occupe de me donner des commentaires pour améliorer ce qui ne va pas.
+
 ### Sens des responsabilités
 
 #### Je suis assidu.e et ponctuel.le 
+
 - [X] Très d'accord
 - [ ] Assez d'accord
 - [ ] Peu d'accord
@@ -179,7 +185,7 @@ Description: Comment est-ce que vous validez le travail avec votre employeur?
 - [ ] Peu d'accord
 - [ ] Pas d'accord
       
-Commentaires:
+Commentaires: Je fais le nombre d'heures qui sont demandées.
 
 ### Capacité d'adaptation
 
@@ -197,7 +203,7 @@ Commentaires:
 - [ ] Peu d'accord
 - [ ] Pas d'accord
          
-Commentaires:
+Commentaires: Je n'ai pas eu besoin de tant m'adapter étant donné que je connaissais déjà les logiciels utilisés.
 
 ### Relations interpersonnelles
 
@@ -215,4 +221,4 @@ Commentaires:
 - [ ] Peu d'accord
 - [ ] Pas d'accord
         
-Commentaires:      
+Commentaires: Je suis toujours ouverte à la critique pour améliorer mes projets. 
