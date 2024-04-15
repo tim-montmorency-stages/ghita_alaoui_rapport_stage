@@ -1,6 +1,9 @@
 # Semaine 2 
+
 ## Échéancier
+
 ### Liste d'étapes
+
 #### Faites une liste des principales tâches de votre stage. Placez ensuite les éléments de cette liste dans un tableau projects avec les dates d'échéances. Le but est d'avoir une représentation visuelle de vos tâches. 
 
 Mettre un screenshot Asana + to do list
@@ -11,7 +14,7 @@ Mettre un screenshot Asana + to do list
 
 Durant ma semaine 2, je n'ai rencontré aucun problème.
    
-## Proposition créative (ici ou à la semaine 3)
+## Proposition créative
 
 Coller mon Word + Maquettes + Scénarimage
 
@@ -73,7 +76,7 @@ J'ai appris comment monter des vidéos sur Adobe Photoshop.
 - [ ] Un peu
 - [ ] Pas tout à fait
       
-Commentaires:
+Commentaires: J'aime les tâches qui me sont assignées jusqu'à maintenant.
 
 #### Mon maître de stage en entreprise est présent:  
 
@@ -82,7 +85,7 @@ Commentaires:
 - [ ] Parfois
 - [ ] Rarement
   
-Commentaires:
+Commentaires: Ma gestionnaire est toujours au bureau avec moi et me demande régulièrement des suivis.
 
 #### J'ose poser des questions:
 
@@ -91,7 +94,7 @@ Commentaires:
 - [ ] Parfois
 - [ ] Rarement
          
-Commentaires sur la supervision et l'encadrement:    
+Commentaires sur la supervision et l'encadrement: Je ne suis pas gênée de poser mes questions, vu qu'ils ont toujours été accueillants avec moi.   
 
 ### Mandat à réaliser
 
@@ -110,6 +113,8 @@ Commentaires sur la supervision et l'encadrement:
       
 Commentaires: Aimeriez-vous avoir plus ou moins de défis? 
 
+J'aimerais avoir un peu plus de défis, car je finis med tâches trop rapidement.
+
 ####  L'échéancier de production me semble réaliste.
 
 - [X] Complètement 
@@ -117,9 +122,9 @@ Commentaires: Aimeriez-vous avoir plus ou moins de défis?
 - [ ] Un peu
 - [ ] Pas tout à fait
         
-Commentaires:
+Commentaires: Je réussis toujours à finir mes tâches à temps.
 
-### Proposition créative (remplir à la semaine 3 si pas fait)
+### Proposition créative
 
 #### Ma proposition me semble précise, bien ciblée et adéquate.
 
@@ -128,68 +133,86 @@ Commentaires:
 - [ ] Peu d'accord
 - [ ] Pas d'accord
         
-Commentaires:    
+Commentaires: Selon moi, elle me semble adéquate, car elle touche à deux domaines multimédias : le design et le montage vidéo.
 
 #### Ma proposition me semble créative et semble répondre aux besoins de l'employeur.
+
 - [ ] Très d'accord
 - [ ] Assez d'accord
 - [ ] Peu d'accord
-- [ ] Pas d'accord    
+- [ ] Pas d'accord
+      
 Commentaires:
 
 ### Qualité et validation du travail accompli
+
 #### Je porte une attention aux détails dans la réalisation de mes tâches. 
+
 - [ ] Très d'accord
 - [ ] Assez d'accord
 - [ ] Peu d'accord
-- [ ] Pas d'accord   
+- [ ] Pas d'accord
+      
 Commentaires:
 
 #### J'utilise des méthodes de validation efficaces avec l'employeur.se pour m'assurer de la qualité du travail accompli.
+
 - [ ] Très d'accord
 - [ ] Assez d'accord
 - [ ] Peu d'accord
-- [ ] Pas d'accord   
+- [ ] Pas d'accord
+      
 Description: Comment est-ce que vous validez le travail avec votre employeur?
 
 ### Sens des responsabilités
+
 #### Je suis assidu.e et ponctuel.le 
-- [ ] Très d'accord
+- [X] Très d'accord
 - [ ] Assez d'accord
 - [ ] Peu d'accord
 - [ ] Pas d'accord   
 
 #### Je respecte mon horaire de travail
-- [ ] Très d'accord
+
+- [X] Très d'accord
 - [ ] Assez d'accord
 - [ ] Peu d'accord
-- [ ] Pas d'accord    
+- [ ] Pas d'accord
+      
 Commentaires:
 
 ### Capacité d'adaptation
+
 #### J'adhère à la culture de l'entreprise.
-- [ ] Très d'accord
+
+- [X] Très d'accord
 - [ ] Assez d'accord
 - [ ] Peu d'accord
 - [ ] Pas d'accord   
 
 #### Je m'adapte à la méthode et aux outils utilisés.
-- [ ] Très d'accord
+
+- [X] Très d'accord
 - [ ] Assez d'accord
 - [ ] Peu d'accord
-- [ ] Pas d'accord    
+- [ ] Pas d'accord
+         
 Commentaires:
 
 ### Relations interpersonnelles
+
 #### J'établis facilement des contacts avec les gens.
+
 - [ ] Très d'accord
-- [ ] Assez d'accord
+- [X] Assez d'accord
 - [ ] Peu d'accord
 - [ ] Pas d'accord   
 
-#### Je sais écouter et considérer l'opinion des autres. 
-- [ ] Très d'accord
+#### Je sais écouter et considérer l'opinion des autres.
+
+- [X] Très d'accord
 - [ ] Assez d'accord
 - [ ] Peu d'accord
-- [ ] Pas d'accord    
+- [ ] Pas d'accord
+        
 Commentaires:      
