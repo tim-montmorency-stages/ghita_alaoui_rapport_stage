@@ -3,25 +3,31 @@
 ### Liste d'étapes
 #### Faites une liste des principales tâches de votre stage. Placez ensuite les éléments de cette liste dans un tableau projects avec les dates d'échéances. Le but est d'avoir une représentation visuelle de vos tâches. 
 
+Mettre un screenshot Asana + to do list
+
 ## Problèmes potentiels
+
 #### Faites une liste des problèmes potentiels pour votre stage. Pour chaque problème énuméré envisagez une solution pour le limiter ou l'éviter. 
-Exemple:     
-### Problème potentiel 1
-Description: Description du problème technique, créatif ou humain...     
-Solutions envisagées: Que pourrait-on faire pour régler ce problème, le limiter ou l'éviter?     
 
-### Problème potentiel 2
-Description: Description du problème technique, créatif ou humain...     
-Solutions envisagées: Que pourrait-on faire pour régler ce problème, le limiter ou l'éviter?     
-
-Continuez la liste...
-
+Durant ma semaine 2, je n'ai rencontré aucun problème.
+   
 ## Proposition créative (ici ou à la semaine 3)
-Lorsque votre proposition créative est faite, copiez ici un lien vers celle-ci. (Esquisses, croquis, moodboard, scénarimage, maquette, arborescence, wireframe...) 
+
+Coller mon Word + Maquettes + Scénarimage
 
 ## Questions complémentaires
+
 ### Résumé de la semaine
+
 #### Liste des tâches accomplies cette semaine
+
+- Refaire le moodboard pour la proposition créative
+- Écrire le Word pour la proposition créative
+- Réajuster les maquettes
+- Montage After Effect pour des storys Instagram
+- Faire le scénarimage
+- Design de courriels infolettres
+- Intégration de courriels infolettres
 
 #### Liste des équipements ou logiciels utilisés
 
