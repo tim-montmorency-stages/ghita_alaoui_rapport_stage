@@ -8,7 +8,7 @@
 
 Étape 2 : Ambiance visée pour le site :
 
-La dernière collection de la marque Tropik est un dernier hommage aux couleurs du printemps pour laisser place aux couleurs d’été. L’ambiance général du design se veut rafraichissant, éclatant et rosé. ¬¬¬
+La dernière collection de la marque Tropik est un dernier hommage aux couleurs du printemps pour laisser place aux couleurs d’été. L’ambiance général du design se veut rafraichissant, éclatant et rosé. 
 
 Étape 3 : Définir la palette de couleurs qui sera utilisée dans les maquettes graphiques
 
