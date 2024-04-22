@@ -75,7 +75,7 @@ Il sera important pour vous dès la première semaine de rappeler cet aspect ave
 - Intégration des courriels infolettres
 - Montage de vidéos promotionnelles à l'aide d'Adobe After Effect
 - Création des bannières de réseaux sociaux à l'aide d'Adobe Photoshop
-- Maquettes filaires pour la proposition créative à l'aide d'Adobe XD
+- Réalisation des maquettes filaires pour la proposition créative à l'aide d'Adobe XD
 - Faire le moodboard ainsi que le fichier Word pour la proposition créative
 
 Voilà un aperçu de ce que j'ai fait cette semaine :
@@ -90,15 +90,15 @@ Voilà un aperçu de ce que j'ai fait cette semaine :
 
 Aussi, voilà à quoi ressemble mes maquettes filaires :
 
-> Maquette de l'accueil :
+> Maquette filaire de l'accueil :
 
 ![Accueil](medias/maquettes/accueil_tropik_maquette_filaire_V1.png)
 
-> Maquette de la page à propos :
+> Maquette filaire de la page à propos :
 
 ![About](medias/maquettes/about_tropik_maquette_filaire_V1.png)
 
-> Maquettes de l'accueil :
+> Maquette filaire de la page collection :
 
 ![Collection](medias/maquettes/collection_tropik_maquette_filaire.png)
 
