@@ -40,19 +40,16 @@ Voilà un aperçu de ce que j'ai fait cette semaine :
 
 ![NL_16_EN](medias/projets/nl_23_en.jpg)
 
-Aussi, voilà à quoi ressemble mes maquettes filaires :
+Aussi, voilà à quoi ressemble mes maquettes filaires version 2 :
 
 > Maquette filaire de l'accueil :
 
-![Accueil](medias/maquettes/accueil_tropik_maquette_filaire_V1.png)
+![Accueil](medias/maquettes/accueil_tropik_maquette_filaire_V2.png)
 
 > Maquette filaire de la page à propos :
 
-![About](medias/maquettes/about_tropik_maquette_filaire_V1.png)
+![About](medias/maquettes/about_tropik_maquette_filaire_V3.png)
 
-> Maquette filaire de la page collection :
-
-![Collection](medias/maquettes/collection_tropik_maquette_filaire.png)
 
 Enfin, voilà mon moodboard :
 
