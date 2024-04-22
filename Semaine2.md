@@ -62,7 +62,7 @@ De plus, voilà mes maquettes graphiques :
 
 > Aperçu Slider de la maquette graphique de la page accueil V2 :
 
-![Slider](medias/maquettes/apercu_slider.png)
+![Slider](medias/maquettes/apercu_slider_accueil.png)
 
 > Maquette graphique de la page à propos V1 :
 
@@ -70,7 +70,7 @@ De plus, voilà mes maquettes graphiques :
 
 > Maquette graphique de la page à propos V2 :
 
-![About](medias/maquettes/accueil_tropik_maquette_graphique_V3.png)
+![About](medias/maquettes/accueil_tropik_maquette_graphique_V2.png)
 
 > Maquette graphique de la page collection :
 
