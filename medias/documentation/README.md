@@ -4,7 +4,7 @@
 
 Étape 1 : Moodboard pour les maquettes
 
-![Moodboard](medias/maquettes/moodboard.png)
+![Moodboard](medias/documentation/maquettes/moodboard.png)
 
 Étape 2 : Ambiance visée pour le site :
 
