@@ -1,10 +1,12 @@
 # Semaine 1   
+
 ## Mandat
+
 ### Description
 
 #### Décrivez le projet ou les tâches que vous aurez à exécuter pendant votre stage. Quels mandats vous sont donnés? Quels logiciels et équipements devrez-vous utiliser? Soyez exhaustif.
 
-Durant mon stage, je suis chargée de designer des courriels infolettres, monter des vidéos pour Instagram ainsi que de designer les sites secondaire de la compagnie. De plus, je m'occupe également d'intégrer les infolettres envoyées aux clients. Pour la partie design, j'utilise principalement Adobe Photoshop et Adobe XD. Pour ce qui est du montage, j'utilise principalement Adobe After Effect. Enfin, j'utilise Salesforce pour l'intégration.
+Durant mon stage, je suis chargée de designer les courriels infolettres, faire du montage pour les vidéos Instagram ainsi que de designer les sites secondaire de la compagnie. De plus, je m'occupe également d'intégrer les infolettres envoyées aux clients. Pour la partie design, j'utilise principalement Adobe Photoshop et Adobe XD. Pour ce qui est du montage, j'utilise principalement Adobe After Effect ou encore Adobe Photoshop. Enfin, j'utilise Salesforce pour l'intégration.
 
 ### Évaluation
 
@@ -69,12 +71,12 @@ Il sera important pour vous dès la première semaine de rappeler cet aspect ave
 
 #### Liste des tâches accomplies cette semaine
 
-- Design de courriels infolettre
-- Intégration de courriels infolettres
-- Montages de vidéos promotionnelles
-- Création des bannières de réseaux sociaux
-- Maquettes filaires et graphiques pour la proposition créative
-- Moodboard + fichier Word pour la proposition créative 
+- Design des courriels infolettre
+- Intégration des courriels infolettres
+- Montage de vidéos promotionnelles à l'aide d'Adobe After Effect
+- Création des bannières de réseaux sociaux à l'aide d'Adobe Photoshop
+- Maquettes filaires et graphiques pour la proposition créative à l'aide d'Adobe XD
+- Faire le moodboard ainsi que le fichier Word pour la proposition créative 
 
 #### Liste des équipements ou logiciels utilisés
 
@@ -133,6 +135,7 @@ Commentaires: Tous les matins, ma superviseur fait un contrôle avec moi pour v�
 Commentaires: J'ai accès à un bureau complet et bien équipé.
 
  ####  Je dispose d'outils de travail adéquat:  
+ 
 - [X] Très d'accord
 - [ ] Assez d'accord
 - [ ] Peu d'accord
