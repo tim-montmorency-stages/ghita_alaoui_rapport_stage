@@ -42,11 +42,11 @@ Voilà un aperçu de ce que j'ai fait cette semaine :
 
 Aussi, voilà à quoi ressemble mes maquettes filaires version 2 :
 
-> Maquette filaire de l'accueil :
+> Maquette filaire de l'accueil V2 :
 
 ![Accueil](medias/maquettes/accueil_tropik_maquette_filaire_V2.png)
 
-> Maquette filaire de la page à propos :
+> Maquette filaire de la page à propos V2 :
 
 ![About](medias/maquettes/about_tropik_maquette_filaire_V2.png)
 
@@ -70,7 +70,7 @@ De plus, voilà mes maquettes graphiques :
 
 > Maquette graphique de la page à propos V2 :
 
-![About](medias/maquettes/accueil_tropik_maquette_graphique_V2.png)
+![About](medias/maquettes/about_tropik_maquette_graphique_V2.png)
 
 > Maquette graphique de la page collection :
 
