@@ -21,11 +21,11 @@ Voilà un aperçu de ce que j'ai fait cette semaine :
 
 > Design d'une des infolettres :
 
-![NL_27_EN](medias/projets/nl_27_en.png)
+![NL_27_EN](medias/projets/nl_27_en.jpg)
 
 > Design d'une des bannières Facebook :
 
-![Banner_Roxy](medias/projets/banner_roxy.png)
+![Banner_Roxy](medias/projets/roxy_banner.png)
 
 Aussi, voilà les points à changer pour ma proposition créative :
 
