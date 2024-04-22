@@ -102,6 +102,12 @@ Aussi, voilà à quoi ressemble mes maquettes filaires :
 
 ![Collection](medias/maquettes/collection_tropik_maquette_filaire.png)
 
+Enfin, voilà mon moodboard :
+
+> Moodboard :
+
+![Moodboard](medias/maquettes/moodboard.png)
+
 #### Liste des équipements ou logiciels utilisés
 
 - Adobe Photoshop
