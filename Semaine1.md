@@ -82,7 +82,7 @@ Voilà un aperçu de ce que j'ai fait cette semaine :
 
 > Design d'une des infolettres :
 
-![NL_du_16_EN](medias/nl_16_en.jpg)
+![NL_16_EN](medias/projets/nl_16_en.jpg)
 
 #### Liste des équipements ou logiciels utilisés
 
