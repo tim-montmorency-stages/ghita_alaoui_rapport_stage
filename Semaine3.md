@@ -2,23 +2,20 @@
 
 ## Problèmes réels
 #### Faites une liste des problèmes qui vous sont arrivés depuis le début de votre stage. Pour chaque problème énuméré notez la solution que vous avez utilisée.
-Exemple:     
-### Problème 1
-Description: Description du problème technique, créatif ou humain...     
-Solutions envisagées: Que pourrait-on faire pour régler ce problème, le limiter ou l'éviter?     
 
-### Problème 2
-Description: Description du problème technique, créatif ou humain...     
-Solutions envisagées: Que pourrait-on faire pour régler ce problème, le limiter ou l'éviter?     
-
-Continuez la liste au besoin...
-
-## Proposition créative (Si pas fait la semaine dernière)
-Lorsque votre proposition créative est faite, copiez ici un lien vers celle-ci. (Esquisses, croquis, moodboard, scénarimage, maquette, arborescence, wireframe...) 
+Je n'ai pas eu de problème à date durant mon stage.
 
 ## Questions complémentaires
+
 ### Résumé de la semaine
+
 #### Liste des tâches accomplies cette semaine
+
+- Montage vidéo pour la nouvelle collection de trois marques
+- Intégration de courriels infolettres
+- Design de courriels infolettres
+- Design des bannières Facebook
+- Update des nouvelles photos dans les sites secondaires
 
 #### Liste des équipements ou logiciels utilisés
 
