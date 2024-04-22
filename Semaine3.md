@@ -11,7 +11,7 @@ Je n'ai pas eu de problème à date durant mon stage.
 
 #### Liste des tâches accomplies cette semaine
 
-- Montage vidéo pour la nouvelle collection de trois marques
+- Montage vidéo sur Adobe Photoshop pour la nouvelle collection de trois marques
 - Intégration de courriels infolettres
 - Design de courriels infolettres
 - Design des bannières Facebook
@@ -36,7 +36,7 @@ Durant ma semaine 3, j'ai eu l'occasion de présenter officiellement ma proposit
 
 #### Nouvelles choses apprises (méthode de travail, tâche, fonction d'un logiciel, équipement,...)
 
-Je n'ai pas appris quelque chose de nouveau cette semaine.
+Durant la semaine 3, j'ai appris comment détourer plus efficacement des objets sur fond blanc avec Adobe Photoshop.
 
 #### Avez-vous accompli l'ensemble de vos tâches et objectifs pour la semaine? Décrivez   
 
