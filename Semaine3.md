@@ -29,7 +29,7 @@ Voilà un aperçu de ce que j'ai fait cette semaine :
 
 Aussi, voilà les points à changer pour ma proposition créative :
 
-
+![Meeting](medias/projets/meeting.png)
 
 #### Liste des équipements ou logiciels utilisés
 
