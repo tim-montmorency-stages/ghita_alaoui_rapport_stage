@@ -4,6 +4,8 @@
 
 Étape 1 : Moodboard pour les maquettes
 
+![Moodboard](medias/projets/moodboard.png)
+
 Étape 2 : Ambiance visée pour le site :
 
 La dernière collection de la marque Tropik est un dernier hommage aux couleurs du printemps pour laisser place aux couleurs d’été. L’ambiance général du design se veut rafraichissant, éclatant et rosé. ¬¬¬
@@ -28,6 +30,8 @@ Pour ma proposition créative, j’aimerais proposer un tout nouveau layout pour
 Étape 6 : Maquettes graphique (Voir pièce-jointe au courriel)
 
 Étape 7 : Concevoir le concept du montage vidéo
+
+![Scénarimage](medias/projets/scenarimage.png)
 
 Le concept du montage vidéo serait de faire un montage dynamique de la nouvelle collection avec les mots Colourful, Comfortable et Trendy qui représentent la marque Tropik. Le montage durera maximum 15 secondes et aura une musique ambiante pour le rendre encore plus attrayant. 
 
