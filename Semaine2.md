@@ -18,7 +18,7 @@ Durant ma semaine 2, je n'ai rencontré aucun problème.
 
 Pour ma proposition créative, j’aimerais proposer un tout nouveau layout pour le microsite web Tropik. Le design que je veux créer serait en lien avec l’image de la marque et aurait par conséquent des couleurs vives et rosées. De plus, j’aimerais également proposer de monter une petite vidéo publicitaire qui sera présentée dans le hero d’une des pages du microsite en utilisant les médias proposés par la compagnie qui sont disponibles sur le site Canto.
 
-Pour ce qui est des maquettes, moodboard et scénarimages, tout est disponible dans le fichier médias.
+Voici les maquettes filaires et graphiques de la semaine 2 :
 
 ## Questions complémentaires
 
@@ -26,13 +26,12 @@ Pour ce qui est des maquettes, moodboard et scénarimages, tout est disponible d
 
 #### Liste des tâches accomplies cette semaine
 
-- Refaire le moodboard pour la proposition créative
 - Écrire le Word pour la proposition créative
-- Réajuster les maquettes
+- Réajuster les maquettes filaires et graphiques pour la proposition créative à l'aide d'Adobe XD
 - Montage After Effect pour des storys Instagram
-- Faire le scénarimage
-- Design de courriels infolettres
-- Intégration de courriels infolettres
+- Faire le scénarimage pour la vidéo publicitaire de la proposition créative à l'aide d'Adobe XD
+- Design des courriels infolettres
+- Intégration des courriels infolettres
 
 #### Liste des équipements ou logiciels utilisés
 
@@ -145,7 +144,7 @@ Commentaires: Selon moi, elle me semble adéquate, car elle touche à deux domai
 - [ ] Peu d'accord
 - [ ] Pas d'accord
       
-Commentaires:
+Commentaires: Je pense que ma proposition répond aux besoins de l'employeur, car elle répond à leur besoin de changement.
 
 ### Qualité et validation du travail accompli
 
