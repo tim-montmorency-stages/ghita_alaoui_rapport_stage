@@ -6,7 +6,7 @@
 
 #### Décrivez le projet ou les tâches que vous aurez à exécuter pendant votre stage. Quels mandats vous sont donnés? Quels logiciels et équipements devrez-vous utiliser? Soyez exhaustif.
 
-Durant mon stage, je suis chargée de designer les courriels infolettres, faire du montage pour les vidéos Instagram ainsi que de designer les sites secondaire de la compagnie. De plus, je m'occupe également d'intégrer les infolettres envoyées aux clients. Pour la partie design, j'utilise principalement Adobe Photoshop et Adobe XD. Pour ce qui est du montage, j'utilise principalement Adobe After Effect ou encore Adobe Photosho. Enfin, j'utilise Salesforce pour l'intégration.
+Durant mon stage, je suis chargée de designer les courriels infolettres, faire du montage pour les vidéos Instagram ainsi que de designer les sites secondaire de la compagnie. De plus, je m'occupe également d'intégrer les infolettres envoyées aux clients. Pour la partie design, j'utilise principalement Adobe Photoshop et Adobe XD. Pour ce qui est du montage, j'utilise principalement Adobe After Effect. Enfin, j'utilise Salesforce pour l'intégration.
 
 ### Évaluation
 
