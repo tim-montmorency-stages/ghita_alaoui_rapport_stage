@@ -50,12 +50,11 @@ Aussi, voilà à quoi ressemble mes maquettes filaires version 2 :
 
 ![About](medias/maquettes/about_tropik_maquette_filaire_V2.png)
 
-
-Enfin, voilà mon moodboard :
+Enfin, voilà mon scénarimage :
 
 > Moodboard :
 
-![Moodboard](medias/maquettes/moodboard.png)
+![Moodboard](medias/maquettes/scenarimage.png)
 
 
 #### Liste des équipements ou logiciels utilisés
