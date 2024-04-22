@@ -4,7 +4,7 @@
 
 Étape 1 : Moodboard pour les maquettes
 
-![Moodboard](medias/maquettes/moodboard.png)
+![moodboard (1)](https://github.com/tim-montmorency-stages/ghita_alaoui_rapport_stage/assets/93718412/ddb4d8ef-488d-4539-ba01-41ddb61d0458)
 
 Étape 2 : Ambiance visée pour le site :
 
@@ -31,9 +31,9 @@ Pour ma proposition créative, j’aimerais proposer un tout nouveau layout pour
 
 Étape 7 : Concevoir le concept du montage vidéo
 
-![Scénarimage](medias/maquettes/scenarimage.png)
-
 Le concept du montage vidéo serait de faire un montage dynamique de la nouvelle collection avec les mots Colourful, Comfortable et Trendy qui représentent la marque Tropik. Le montage durera maximum 15 secondes et aura une musique ambiante pour le rendre encore plus attrayant. 
 
 Étape 8 : Conceptualiser un scénarimage pour le montage vidéo
+
+![scenarimage](https://github.com/tim-montmorency-stages/ghita_alaoui_rapport_stage/assets/93718412/ea56875f-827d-4971-bfb6-b40ca8c87591)
 
