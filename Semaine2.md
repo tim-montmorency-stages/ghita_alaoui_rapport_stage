@@ -38,7 +38,7 @@ Voilà un aperçu de ce que j'ai fait cette semaine :
 
 > Design d'une des infolettres :
 
-![NL_16_EN](medias/projets/nl_23_en.jpg)
+![NL_23_EN](medias/projets/nl_23_en.jpg)
 
 Aussi, voilà à quoi ressemble mes maquettes filaires version 2 :
 
@@ -49,6 +49,32 @@ Aussi, voilà à quoi ressemble mes maquettes filaires version 2 :
 > Maquette filaire de la page à propos :
 
 ![About](medias/maquettes/about_tropik_maquette_filaire_V2.png)
+
+De plus, voilà mes maquettes graphiques :
+
+> Maquette graphique de la page accueil V1 :
+
+![Accueil](medias/maquettes/accueil_tropik_maquette_graphique_V1.png)
+
+> Maquette graphique de la page accueil V2 :
+
+![Acceuil](medias/maquettes/accueil_tropik_maquette_graphique_V2.png)
+
+> Aperçu Slider de la maquette graphique de la page accueil V2 :
+
+![Slider](medias/maquettes/apercu_slider.png)
+
+> Maquette graphique de la page à propos V1 :
+
+![About](medias/maquettes/about_tropik_maquette_graphique_V1.png)
+
+> Maquette graphique de la page à propos V2 :
+
+![About](medias/maquettes/accueil_tropik_maquette_graphique_V3.png)
+
+> Maquette graphique de la page collection :
+
+![About](medias/maquettes/collection_tropik_maquette_graphique.png)
 
 Enfin, voilà mon scénarimage :
 
