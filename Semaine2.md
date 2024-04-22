@@ -48,7 +48,7 @@ Aussi, voilà à quoi ressemble mes maquettes filaires version 2 :
 
 > Maquette filaire de la page à propos :
 
-![About](medias/maquettes/about_tropik_maquette_filaire_V3.png)
+![About](medias/maquettes/about_tropik_maquette_filaire_V2.png)
 
 
 Enfin, voilà mon moodboard :
