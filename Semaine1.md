@@ -90,9 +90,17 @@ Voilà un aperçu de ce que j'ai fait cette semaine :
 
 Aussi, voilà à quoi ressemble mes maquettes filaires :
 
-> Maquettes de l'accueil :
+> Maquette de l'accueil :
 
 ![Accueil](medias/maquettes/accueil_tropik_maquette_filaire_V1.png)
+
+> Maquette de la page à propos :
+
+![About](medias/maquettes/about_tropik_maquette_filaire_V1.png)
+
+> Maquettes de l'accueil :
+
+![Collection](medias/maquettes/collection_tropik_maquette_filaire.png)
 
 #### Liste des équipements ou logiciels utilisés
 
