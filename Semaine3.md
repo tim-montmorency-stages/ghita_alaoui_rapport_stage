@@ -13,7 +13,7 @@ Je n'ai pas eu de problème à date durant mon stage.
 
 - Montage vidéo sur Adobe Photoshop pour la nouvelle collection de trois marques
 - Intégration de courriels infolettres
-- Design de courriels infolettres
+- Design des courriels infolettres
 - Design des bannières Facebook
 - Update des nouvelles photos dans les sites secondaires
 
@@ -139,7 +139,7 @@ Commentaires: J'aime énormément ce que je fais durant mon stage.
 - [ ] Un peu
 - [ ] Pas tout à fait
       
-Commentaires: J'ai des délai raisonnables et que j'arrive à atteindre sans problème.
+Commentaires: J'ai des délais raisonnables et que j'arrive à atteindre sans problème.
 
 ####  Je suis conscient.e des problèmes potentiels de mon mandat:
 
