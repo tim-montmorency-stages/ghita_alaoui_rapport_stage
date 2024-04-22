@@ -16,6 +16,7 @@ Je n'ai pas eu de problème à date durant mon stage.
 - Design des courriels infolettres
 - Design des bannières Facebook
 - Update des nouvelles photos dans les sites secondaires
+- Meeting important pour présenter officiellement la proposition créative à mes superviseurs
 
 Voilà un aperçu de ce que j'ai fait cette semaine :
 
@@ -27,7 +28,7 @@ Voilà un aperçu de ce que j'ai fait cette semaine :
 
 ![Banner_Roxy](medias/projets/roxy_banner.png)
 
-Aussi, voilà les points à changer pour ma proposition créative :
+Aussi, lors de mon meeting pour ma proposition créative, voilà les points qui ont été abordés :
 
 ![Meeting](medias/projets/meeting.png)
 
