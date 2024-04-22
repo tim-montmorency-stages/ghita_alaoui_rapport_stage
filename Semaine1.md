@@ -75,7 +75,7 @@ Il sera important pour vous dès la première semaine de rappeler cet aspect ave
 - Intégration des courriels infolettres
 - Montage de vidéos promotionnelles à l'aide d'Adobe After Effect
 - Création des bannières de réseaux sociaux à l'aide d'Adobe Photoshop
-- Maquettes filaires et graphiques pour la proposition créative à l'aide d'Adobe XD
+- Maquettes filaires pour la proposition créative à l'aide d'Adobe XD
 - Faire le moodboard ainsi que le fichier Word pour la proposition créative
 
 Voilà un aperçu de ce que j'ai fait cette semaine :
@@ -83,6 +83,16 @@ Voilà un aperçu de ce que j'ai fait cette semaine :
 > Design d'une des infolettres :
 
 ![NL_16_EN](medias/projets/nl_16_en.png)
+
+> Design d'une des bannières Facebook :
+
+![Banner_Tropik](medias/projets/banner_tropik.png)
+
+Aussi, voilà à quoi ressemble mes maquettes filaires :
+
+> Maquettes de l'accueil :
+
+![Accueil](medias/maquettes/accueil_tropik_maquette_filaire_V1.png)
 
 #### Liste des équipements ou logiciels utilisés
 
