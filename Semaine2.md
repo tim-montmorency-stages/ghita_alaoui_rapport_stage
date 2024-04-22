@@ -27,8 +27,9 @@ Voici les maquettes filaires et graphiques de la semaine 2 :
 #### Liste des tâches accomplies cette semaine
 
 - Écrire le Word pour la proposition créative
-- Réajuster les maquettes filaires et graphiques pour la proposition créative à l'aide d'Adobe XD
-- Montage After Effect pour des storys Instagram
+- Réajuster les maquettes filaires pour faire une deuxième version à l'aide d'Adobe XD
+- Faire les maquettes graphiques
+- Réalisation d'un montage After Effect pour des storys Instagram
 - Faire le scénarimage pour la vidéo publicitaire de la proposition créative à l'aide d'Adobe XD
 - Design des courriels infolettres
 - Intégration des courriels infolettres
