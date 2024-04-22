@@ -6,7 +6,7 @@
 
 #### Faites une liste des principales tâches de votre stage. Placez ensuite les éléments de cette liste dans un tableau projects avec les dates d'échéances. Le but est d'avoir une représentation visuelle de vos tâches. 
 
-Mettre un screenshot Asana + to do list
+![Asana](medias/projets/taches_asana.png)
 
 ## Problèmes potentiels
 
