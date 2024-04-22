@@ -17,6 +17,15 @@ Je n'ai pas eu de problème à date durant mon stage.
 - Design des bannières Facebook
 - Update des nouvelles photos dans les sites secondaires
 
+Voilà un aperçu de ce que j'ai fait cette semaine :
+
+> Design d'une des infolettres :
+
+![NL_23_EN](medias/projets/nl_23_en.jpg)
+
+Aussi, voilà à quoi ressemble mes maquettes filaires version 2 :
+
+
 #### Liste des équipements ou logiciels utilisés
 
 - Adobe Photoshop
