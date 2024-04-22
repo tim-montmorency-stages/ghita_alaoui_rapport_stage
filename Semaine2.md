@@ -34,6 +34,33 @@ Voici les maquettes filaires et graphiques de la semaine 2 :
 - Design des courriels infolettres
 - Intégration des courriels infolettres
 
+Voilà un aperçu de ce que j'ai fait cette semaine :
+
+> Design d'une des infolettres :
+
+![NL_16_EN](medias/projets/nl_23_en.jpg)
+
+Aussi, voilà à quoi ressemble mes maquettes filaires :
+
+> Maquette filaire de l'accueil :
+
+![Accueil](medias/maquettes/accueil_tropik_maquette_filaire_V1.png)
+
+> Maquette filaire de la page à propos :
+
+![About](medias/maquettes/about_tropik_maquette_filaire_V1.png)
+
+> Maquette filaire de la page collection :
+
+![Collection](medias/maquettes/collection_tropik_maquette_filaire.png)
+
+Enfin, voilà mon moodboard :
+
+> Moodboard :
+
+![Moodboard](medias/maquettes/moodboard.png)
+
+
 #### Liste des équipements ou logiciels utilisés
 
 - Adobe Photoshop
