@@ -55,13 +55,17 @@ Je n'ai rencontré aucun problème cette semaine.
 
 Voilà un aperçu de ce que j'ai fait cette semaine :
 
+> Processus de visualisation des storys sur Adobe Photoshop :
+
+![Artboard](medias/projets/artboard_processus.png)
+
 > Processus de montage sur Adobe Photoshop :
 
-![NL_27_EN](medias/projets/nl_27_en.jpg)
+![Montage](medias/projets/montage_processus.png)
 
-> Processus d'intégration d'infolettres :
+> Processus d'intégration des infolettres :
 
-![Banner_Roxy](medias/projets/roxy_banner.png)
+![Montage](medias/projets/integration_processus.png)
 
 #### Liste des équipements ou logiciels utilisés
 
