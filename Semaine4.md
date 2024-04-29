@@ -47,6 +47,12 @@ Je n'ai rencontré aucun problème cette semaine.
 
 #### Liste des tâches accomplies cette semaine
 
+- Montage vidéo sur Adobe Photoshop pour la nouvelle collection Tropik
+- Intégration des courriels infolettres
+- Design des courriels infolettres
+- Maquettes filaires en nouvelles versions
+- Refaire le moodboard
+
 #### Liste des équipements ou logiciels utilisés
 
 #### Faits saillants de la semaine
