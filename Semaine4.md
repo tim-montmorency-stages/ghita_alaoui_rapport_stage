@@ -53,6 +53,16 @@ Je n'ai rencontré aucun problème cette semaine.
 - Maquettes filaires en nouvelles versions
 - Refaire le moodboard
 
+Voilà un aperçu de ce que j'ai fait cette semaine :
+
+> Processus de montage sur Adobe Photoshop :
+
+![NL_27_EN](medias/projets/nl_27_en.jpg)
+
+> Processus d'intégration d'infolettres :
+
+![Banner_Roxy](medias/projets/roxy_banner.png)
+
 #### Liste des équipements ou logiciels utilisés
 
 #### Faits saillants de la semaine
