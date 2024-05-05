@@ -1,33 +1,44 @@
 # Semaine 5
 
 ## Problèmes réels
+
 #### Faites une liste des problèmes qui vous sont arrivés cette semaine. Pour chaque problème énuméré notez la solution que vous avez utilisée.
-Exemple:     
-### Problème 1
-Description: Description du problème technique, créatif ou humain...     
-Solutions envisagées: Que pourrait-on faire pour régler ce problème, le limiter ou l'éviter?     
 
-### Problème 2
-Description: Description du problème technique, créatif ou humain...     
-Solutions envisagées: Que pourrait-on faire pour régler ce problème, le limiter ou l'éviter?     
-
-Continuez la liste au besoin...
+Je n'ai rencontré aucun problème cette semaine.
 
 ## Sauvegarde et archivage
+
 ### Méthodes de sauvegarde
+
 #### Faites une liste des méthodes que vous utilisez pour sauvegarder votre travail. Prévoyez-vous des copies de sécurité? 
 
+- Je divise mes fichiers dans les différents dossiers que je crée
+- Je les renomme correctement selon les versions
+- Je me garde un backup en ligne et local
+
 ### Méthodes d'archivage
+
 #### Faites une liste des méthodes que vous utilisez pour archiver les documents importants dont vous n'avez plus besoin.
 
+- Je les classe dans les dossiers qui leur correspondent le mieux
+- Je rajoute le "__OLD" pour m'en souvenir
+
 ### Méthodes d'archivage finale
+
 #### Décrivez de quelle façon vous remettrez vos fichiers finaux à l'employeur. De quelle façon vous assurerez vous que tous les fichiers seront bien archivés? Produirez-vous de la documentation avec des explications? 
 
+Je remet mes fichiers dans les dossiers du serveur qui leur correspondent (ex : les fichiers PSD dans les dossiers Création) et je m'assure de les nommer comme il faut. Je n'ai pas besoin de produire de la documentation
+
 ### Traces du processus de sauvegarde
-#### Insérez des images du classement de vos sauvegardes (Capture écran du classement de vos fichiers). 
+
+#### Insérez des images du classement de vos sauvegardes (Capture écran du classement de vos fichiers).
+
+Mettre un screenshot de mes documents
 
 ## Questions complémentaires
+
 ### Résumé de la semaine
+
 #### Liste des tâches accomplies cette semaine
 
 #### Liste des équipements ou logiciels utilisés
