@@ -43,159 +43,211 @@ Mettre un screenshot de mes documents
 
 #### Liste des équipements ou logiciels utilisés
 
+- Adobe Photoshop
+- Adobe XD
+- Adobe After Effect
+- Salesforce
+- Excel
+- Word
+- Clavier
+- Souris
+- Mac
+- Écrans
+
 #### Faits saillants de la semaine
+
+Il ne s'est pas passé grand chose de spécial cette semaine.
 
 #### Nouvelles choses apprises (méthode de travail, tâche, fonction d'un logiciel, équipement,...)
 
-#### Avez-vous accompli l'ensemble de vos tâches et objectifs pour la semaine? Décrivez    
-- [ ] Complètement 
+J'ai appris comment céduler les infolettres sur SalesForce
+
+#### Avez-vous accompli l'ensemble de vos tâches et objectifs pour la semaine? Décrivez 
+
+- [X] Complètement 
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait    
-Description: (Si non, expliquez comment pallier à la siutation).
 
 #### Est-ce que votre mandat ou vos tâches se réalisent selon l'échéancier prévu?    
-- [ ] Complètement 
+
+- [X] Complètement 
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait    
-Description: (Si non, expliquez comment pallier à la siutation). 
 
 ### La dynamique du stage
-#### Je suis satisfait de mon stage jusqu'à maintenant.    
-- [ ] Complètement 
+
+#### Je suis satisfait de mon stage jusqu'à maintenant.
+
+- [X] Complètement 
 - [ ] Assez
 - [ ] Un peu
-- [ ] Pas tout à fait    
-Commentaires:
+- [ ] Pas tout à fait
+          
+Commentaires: Je progresse énormément grâce à mon stage et j'en suis satisfaite
 
-#### Mon maître de stage en entreprise est présent:  
-- [ ] En tout temps 
-- [ ] Régulièrement
-- [ ] Parfois
-- [ ] Rarement    
-Commentaires:
+#### Mon maître de stage en entreprise est présent:
 
-#### J'ose poser des questions:
-- [ ] En tout temps 
-- [ ] Régulièrement
-- [ ] Parfois
-- [ ] Rarement    
-Commentaires:   
-
-#### Je ressens du stress: 
-- [ ] Souvent
-- [ ] Régulièrement
-- [ ] Parfois
-- [ ] Rarement     
-Commentaires: Avez-vous des méthodes pour gérer votre stress? Comment pourrait-il être diminué? 
-
-#### J'éprouve des difficultés:
-- [ ] Souvent
+- [X] En tout temps 
 - [ ] Régulièrement
 - [ ] Parfois
 - [ ] Rarement
+          
+Commentaires: Mon maître de stage est toujours présent pour m'aider et me répondre
+
+#### J'ose poser des questions:
+
+- [X] En tout temps 
+- [ ] Régulièrement
+- [ ] Parfois
+- [ ] Rarement
+          
+Commentaires: Je ne suis pas gênée de poser des questions   
+
+#### Je ressens du stress: 
+
+- [ ] Souvent
+- [ ] Régulièrement
+- [X] Parfois
+- [ ] Rarement
+          
+Commentaires: Avez-vous des méthodes pour gérer votre stress? Comment pourrait-il être diminué?
+
+Généralement, je pars prendre une petite marche dans le bureau pour me calmer
+
+#### J'éprouve des difficultés:
+
+- [ ] Souvent
+- [ ] Régulièrement
+- [ ] Parfois
+- [X] Rarement
 
 ### Qualité et validation du travail accompli
+
 #### J'utilise des méthodes de validation efficaces avec l'employeur.se pour m'assurer de la qualité du travail accompli.
-- [ ] Très d'accord
+
+- [X] Très d'accord
 - [ ] Assez d'accord
 - [ ] Peu d'accord
-- [ ] Pas d'accord   
-Commentaires:
+- [ ] Pas d'accord
+        
+Commentaires: Mon travail est toujours mis pour approbation avant d´être utilisé
 
 #### Je propose des solutions appropriées aux problèmes rencontrés: 
+
 - [ ] Très d'accord
 - [ ] Assez d'accord
-- [ ] Peu d'accord
-- [ ] Pas d'accord   
-Commentaires:
+- [X] Peu d'accord
+- [ ] Pas d'accord
+      
+Commentaires: Je n'ai pas vraiment l'occasion de le faire
 
 #### J'utilise des méthodes de sauvegarde efficaces de mon travail.
-- [ ] Très d'accord
+
+- [X] Très d'accord
 - [ ] Assez d'accord
 - [ ] Peu d'accord
-- [ ] Pas d'accord   
-Commentaires:
+- [ ] Pas d'accord
+      
+Commentaires: Mes fichiers sont très bien classés
 
 ### Compétences techniques
+
 #### Je crée du contenu (code, visuel, son,...) de qualité ou j'optimise judicieusement le contenu existant:
+
 - [ ] Très d'accord
 - [ ] Assez d'accord
 - [ ] Peu d'accord
 - [ ] Pas d'accord
-- [ ] Ne s'applique pas    
-Commentaires:    
+- [X] Ne s'applique pas      
 
 #### Je suis en mesure d'utiliser les logiciels ou outils mis à ma disposition:
-- [ ] Très d'accord
+
+- [X] Très d'accord
 - [ ] Assez d'accord
 - [ ] Peu d'accord
-- [ ] Pas d'accord    
-Commentaires:   
+- [ ] Pas d'accord
+        
+Commentaires: Les outils sont assez intuitifs et faciles à utiliser   
 
 #### J'utilise de façon optimale les ressources matérielles et informationnelles mises à ma disposition:
+
 - [ ] Très d'accord
 - [ ] Assez d'accord
 - [ ] Peu d'accord
 - [ ] Pas d'accord
-- [ ] Ne s'applique pas     
-Commentaires:
+- [X] Ne s'applique pas
 
 ### Qualité du produit
+
 #### Je réalise un produit cohérent avec le concept et le mandat initial:
-- [ ] Très d'accord
+
+- [X] Très d'accord
 - [ ] Assez d'accord
 - [ ] Peu d'accord
 - [ ] Pas d'accord
 - [ ] Ne s'applique pas  
 
 #### J'offre une proposition artistique inventive et recherchée. (Si vous avez à faire des proposition artistiques)
-- [ ] Très d'accord
+
+- [X] Très d'accord
 - [ ] Assez d'accord
 - [ ] Peu d'accord
 - [ ] Pas d'accord
 - [ ] Ne s'applique pas
 
 ### Gestion du temps
-#### J'évalue, planifie et organise mon travail.   
-- [ ] Très d'accord
+
+#### J'évalue, planifie et organise mon travail.
+
+- [X] Très d'accord
 - [ ] Assez d'accord
 - [ ] Peu d'accord
 - [ ] Pas d'accord     
 
 #### Je démontre de l'initiative pour utiliser mon temps efficacement.
-- [ ] Très d'accord
+
+- [X] Très d'accord
 - [ ] Assez d'accord
 - [ ] Peu d'accord
 - [ ] Pas d'accord
 
 #### Je respecte les échéanciers et m'acquitte des tâches avec efficacité:
-- [ ] Très d'accord
-- [ ] Assez d'accord
-- [ ] Peu d'accord
-- [ ] Pas d'accord         
-Commentaires:
 
-### Capacité d'adaptation
-#### J'accepte les critiques constructives et j'apporte les correctifs demandés: 
-- [ ] Très d'accord
-- [ ] Assez d'accord
-- [ ] Peu d'accord
-- [ ] Pas d'accord    
-Commentaires:
-
-#### Je sais m'ajuster devant un imprévu:
-- [ ] Très d'accord
-- [ ] Assez d'accord
-- [ ] Peu d'accord
-- [ ] Pas d'accord    
-Commentaires:   
-
-#### J'expérimente et j'apprends de nouvelles notions grâce aux connaissances déjà acquises.
-- [ ] Très d'accord
+- [X] Très d'accord
 - [ ] Assez d'accord
 - [ ] Peu d'accord
 - [ ] Pas d'accord
-- [ ] Ne s'applique pas    
-Commentaires:
+              
+Commentaires: Je m'assure toujours de finir mes tâches à temps
+
+### Capacité d'adaptation
+
+#### J'accepte les critiques constructives et j'apporte les correctifs demandés: 
+
+- [X] Très d'accord
+- [ ] Assez d'accord
+- [ ] Peu d'accord
+- [ ] Pas d'accord
+      
+Commentaires: Je suis ouverte à la critique pour m'améliorer
+
+#### Je sais m'ajuster devant un imprévu:
+
+- [X] Très d'accord
+- [ ] Assez d'accord
+- [ ] Peu d'accord
+- [ ] Pas d'accord
+      
+Commentaires: J'ai souvent dû m'ajuster à des changements de dernière minute et le fait sans problème  
+
+#### J'expérimente et j'apprends de nouvelles notions grâce aux connaissances déjà acquises.
+
+- [X] Très d'accord
+- [ ] Assez d'accord
+- [ ] Peu d'accord
+- [ ] Pas d'accord
+- [ ] Ne s'applique pas
+      
+Commentaires: J'apprends un peu plus tous les jours comment utiliser différemment la suite Adobe
