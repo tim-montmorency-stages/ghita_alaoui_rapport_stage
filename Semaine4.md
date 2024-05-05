@@ -50,7 +50,7 @@ Je n'ai rencontré aucun problème cette semaine.
 - Montage vidéo sur Adobe Photoshop pour la nouvelle collection Tropik
 - Intégration des courriels infolettres
 - Design des courriels infolettres
-- Maquettes filaires en nouvelles versions
+- Commencer les maquettes filaires en nouvelles versions
 - Refaire le moodboard
 
 Voilà un aperçu de ce que j'ai fait cette semaine :
