@@ -69,6 +69,17 @@ Voilà un aperçu de ce que j'ai fait cette semaine :
 
 #### Liste des équipements ou logiciels utilisés
 
+- Adobe Photoshop
+- Adobe XD
+- Adobe After Effect
+- Salesforce
+- Excel
+- Word
+- Clavier
+- Souris
+- Mac
+- Écrans
+
 #### Faits saillants de la semaine
 
 J'ai commencé à travailler sur les nouvelles maquettes pour le site web.
