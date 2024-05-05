@@ -41,6 +41,13 @@ Mettre un screenshot de mes documents
 
 #### Liste des tâches accomplies cette semaine
 
+- Design des courriels infolettres
+- Intégration des courriels infolettres
+- Finalisation des maquettes filaires
+- Trouver la nouvelle palette de couleurs du site web
+- Faire les maquettes graphiques
+- Mettre à jour les microsites (bannières, images secondaires, collection)
+
 #### Liste des équipements ou logiciels utilisés
 
 - Adobe Photoshop
