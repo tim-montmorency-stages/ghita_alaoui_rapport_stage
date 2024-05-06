@@ -64,7 +64,7 @@ Aussi, voici l'avancement de mes maquettes filaires :
 
 > Pop up maquette filaire :
 
-![pop_up](medias/maquettes/pop_up_maquette_filaire_new.png)
+![pop_up](medias/maquettes/pop_up_maquette_filaire.png)
 
 > Slider 01 maquette filaire :
 
