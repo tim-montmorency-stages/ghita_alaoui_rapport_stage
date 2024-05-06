@@ -37,6 +37,18 @@ Je n'ai rencontré aucun problème cette semaine.
 
 #### Insérez des images de votre processus de validation (Liste cochée, grille de validation, résultat de tests, capture d'écran de commentaires, prise de notes,...) Ajoutez les dates associées aux images.
 
+> 22 avril :
+
+![22_avril](medias/projets/22_avril_commentaires_01.jpg)
+
+> 22 avril :
+
+![22_avril](medias/projets/22_avril_commentaires_02.jpg)
+
+> 23 avril :
+
+![22_avril](medias/projets/23_avril_commentaires.jpg)
+
 
 
 > 26 avril 2024
