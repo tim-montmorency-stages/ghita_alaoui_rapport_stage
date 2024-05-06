@@ -37,7 +37,7 @@ Je n'ai rencontré aucun problème cette semaine.
 
 #### Insérez des images de votre processus de validation (Liste cochée, grille de validation, résultat de tests, capture d'écran de commentaires, prise de notes,...) Ajoutez les dates associées aux images.
 
-![MicrosoftTeams-image (31)](https://github.com/tim-montmorency-stages/ghita_alaoui_rapport_stage/assets/93718412/1b800baf-d254-482c-83b2-9abee2337a87)
+
 
 > 26 avril 2024
 
