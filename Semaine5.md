@@ -239,10 +239,12 @@ Commentaires: Mes fichiers sont très bien classés
 #### Je crée du contenu (code, visuel, son,...) de qualité ou j'optimise judicieusement le contenu existant:
 
 - [ ] Très d'accord
-- [ ] Assez d'accord
+- [X] Assez d'accord
 - [ ] Peu d'accord
 - [ ] Pas d'accord
-- [X] Ne s'applique pas      
+- [ ] Ne s'applique pas
+
+Commentaires : Je m'assure toujours d'offrir un travail qualitatif en utilisant les ressources offertes.    
 
 #### Je suis en mesure d'utiliser les logiciels ou outils mis à ma disposition:
 
