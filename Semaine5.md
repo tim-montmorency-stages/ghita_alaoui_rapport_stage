@@ -60,31 +60,31 @@ Aussi, voici l'avancement de mes maquettes filaires :
 
 > Home page maquette filaire :
 
-![home](medias/projets/home_maquette_filaire_new.png)
+![home](medias/maquettes/home_maquette_filaire_new.png)
 
 > Pop up maquette filaire :
 
-![pop_up](medias/projets/pop_up_maquette_filaire_new.png)
+![pop_up](medias/maquettes/pop_up_maquette_filaire_new.png)
 
 > Slider 01 maquette filaire :
 
-![slider_01](medias/projets/slider_01_maquette_filaire_new.png)
+![slider_01](medias/maquettes/slider_01_maquette_filaire_new.png)
 
 > Slider 02 maquette filaire :
 
-![slider_02](medias/projets/slider_02_maquette_filaire_new.png)
+![slider_02](medias/maquettes/slider_02_maquette_filaire_new.png)
 
 > À propos maquette filaire :
 
-![about](medias/projets/about_maquette_filaire_new.png)
+![about](medias/maquettes/about_maquette_filaire_new.png)
 
 > Collection maquette filaire :
 
-![collection](medias/projets/collection_maquette_filaire_new.png)
+![collection](medias/maquettes/collection_maquette_filaire_new.png)
 
 > Where to buy maquette filaire :
 
-![where](medias/projets/where_maquette_filaire_new.png)
+![where](medias/maquettes/where_maquette_filaire_new.png)
 
 #### Liste des équipements ou logiciels utilisés
 
