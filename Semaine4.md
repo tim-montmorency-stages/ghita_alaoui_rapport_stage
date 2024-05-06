@@ -65,10 +65,6 @@ Je n'ai rencontré aucun problème cette semaine.
 
 ![22_avril](medias/maquettes/moodboard_new.png)
 
-> Design des infolettres sur Photoshop :
-
-![22_avril](medias/projets/design_infolettre.png)
-
 Voilà un aperçu de ce que j'ai fait cette semaine :
 
 > Processus de visualisation des storys sur Adobe Photoshop :
