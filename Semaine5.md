@@ -55,6 +55,7 @@ Je remet mes fichiers dans les dossiers du serveur qui leur correspondent (ex : 
 - Intégration des courriels infolettres
 - Finalisation des maquettes filaires
 - Trouver la nouvelle palette de couleurs du site web
+- Trouver la typographie
 - Faire les maquettes graphiques
 - Mettre à jour les microsites (bannières, images secondaires, collection)
 
