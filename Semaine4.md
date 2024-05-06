@@ -39,15 +39,15 @@ Je n'ai rencontré aucun problème cette semaine.
 
 > 22 avril :
 
-![22_avril](medias/projets/22_avril_commentaires_01.jpg)
+![22_avril](medias/projets/22_avril_commentaires_01.png)
 
 > 22 avril :
 
-![22_avril](medias/projets/22_avril_commentaires_02.jpg)
+![22_avril](medias/projets/22_avril_commentaires_02.png)
 
 > 23 avril :
 
-![22_avril](medias/projets/23_avril_commentaires.jpg)
+![22_avril](medias/projets/23_avril_commentaires.png)
 
 
 
