@@ -48,6 +48,44 @@ Mettre un screenshot de mes documents
 - Faire les maquettes graphiques
 - Mettre à jour les microsites (bannières, images secondaires, collection)
 
+> Design des infolettres sur Photoshop :
+
+![Infolettres](medias/projets/design_infolettre.png)
+
+> Résultat de la NL :
+
+![22_avril](medias/projets/design_infolettre.png)
+
+Aussi, voici l'avancement de mes maquettes filaires :
+
+> Home page maquette filaire :
+
+![home](medias/projets/home_maquette_filaire_new.png)
+
+> Pop up maquette filaire :
+
+![pop_up](medias/projets/pop_up_maquette_filaire_new.png)
+
+> Slider 01 maquette filaire :
+
+![slider_01](medias/projets/slider_01_maquette_filaire_new.png)
+
+> Slider 02 maquette filaire :
+
+![slider_02](medias/projets/slider_02_maquette_filaire_new.png)
+
+> À propos maquette filaire :
+
+![about](medias/projets/about_maquette_filaire_new.png)
+
+> Collection maquette filaire :
+
+![collection](medias/projets/collection_maquette_filaire_new.png)
+
+> Where to buy maquette filaire :
+
+![where](medias/projets/where_maquette_filaire_new.png)
+
 #### Liste des équipements ou logiciels utilisés
 
 - Adobe Photoshop
