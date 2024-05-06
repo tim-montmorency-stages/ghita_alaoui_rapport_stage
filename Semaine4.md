@@ -49,10 +49,6 @@ Je n'ai rencontré aucun problème cette semaine.
 
 ![22_avril](medias/projets/23_avril_commentaires.png)
 
-
-
-> 26 avril 2024
-
 ## Questions complémentaires
 
 ### Résumé de la semaine
@@ -64,6 +60,14 @@ Je n'ai rencontré aucun problème cette semaine.
 - Design des courriels infolettres
 - Commencer les maquettes filaires en nouvelles versions
 - Refaire le moodboard
+
+> Nouveau moodboard :
+
+![22_avril](medias/maquettes/moodboard_new.png)
+
+> Design des infolettres sur Photoshop :
+
+![22_avril](medias/projets/design_infolettre.png)
 
 Voilà un aperçu de ce que j'ai fait cette semaine :
 
