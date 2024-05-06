@@ -62,10 +62,6 @@ Aussi, voici l'avancement de mes maquettes filaires :
 
 ![home](medias/maquettes/home_maquette_filaire_new.png)
 
-> Pop up maquette filaire :
-
-![pop_up](medias/maquettes/pop_up_maquette_filaire.png)
-
 > Slider 01 maquette filaire :
 
 ![slider_01](medias/maquettes/slider_01_maquette_filaire_new.png)
@@ -73,6 +69,10 @@ Aussi, voici l'avancement de mes maquettes filaires :
 > Slider 02 maquette filaire :
 
 ![slider_02](medias/maquettes/slider_02_maquette_filaire_new.png)
+
+> Pop up maquette filaire :
+
+![pop_up](medias/maquettes/pop_up_maquette_filaire.png)
 
 > À propos maquette filaire :
 
@@ -85,6 +85,36 @@ Aussi, voici l'avancement de mes maquettes filaires :
 > Where to buy maquette filaire :
 
 ![where](medias/maquettes/where_maquette_filaire_new.png)
+
+Et voici l'avancement de mes maquettes graphiques :
+
+> Home page maquette graphique :
+
+![home](medias/maquettes/home_maquette_graphique_new.png)
+
+> Slider 01 maquette graphique :
+
+![slider_01](medias/maquettes/slider_01_maquette_graphique_new.png)
+
+> Slider 02 maquette graphique :
+
+![slider_02](medias/maquettes/slider_02_maquette_graphique_new.png)
+
+> Pop up maquette graphique :
+
+![pop_up](medias/maquettes/pop_up_maquette_graphique.png)
+
+> À propos maquette graphique :
+
+![about](medias/maquettes/about_maquette_graphique_new.png)
+
+> Collection maquette graphique :
+
+![collection](medias/maquettes/collection_maquette_graphique_new.png)
+
+> Where to buy maquette graphique :
+
+![where](medias/maquettes/where_maquette_graphique_new.png)
 
 #### Liste des équipements ou logiciels utilisés
 
