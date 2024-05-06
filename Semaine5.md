@@ -33,7 +33,17 @@ Je remet mes fichiers dans les dossiers du serveur qui leur correspondent (ex : 
 
 #### Insérez des images du classement de vos sauvegardes (Capture écran du classement de vos fichiers).
 
-Mettre un screenshot de mes documents
+> Organisation de mes documents :
+
+![documents](medias/projets/organisation_01.png)
+
+> Organisation de mes infolettres :
+
+![documents](medias/projets/organisation_02.png)
+
+> Organisation de mes microsites :
+
+![documents](medias/projets/organisation_03.png)
 
 ## Questions complémentaires
 
@@ -51,10 +61,6 @@ Mettre un screenshot de mes documents
 > Design des infolettres sur Photoshop :
 
 ![Infolettres](medias/projets/design_infolettre.png)
-
-> Résultat de la NL :
-
-![22_avril](medias/projets/design_infolettre.png)
 
 Aussi, voici l'avancement de mes maquettes filaires :
 
