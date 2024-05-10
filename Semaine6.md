@@ -1,23 +1,24 @@
 # Semaine 6
 
 ## Problèmes réels
+
 #### Faites une liste des problèmes qui vous sont arrivés cette semaine. Pour chaque problème énuméré notez la solution que vous avez utilisée.
-Exemple:     
-### Problème 1
-Description: Description du problème technique, créatif ou humain...     
-Solutions envisagées: Que pourrait-on faire pour régler ce problème, le limiter ou l'éviter?     
 
-### Problème 2
-Description: Description du problème technique, créatif ou humain...     
-Solutions envisagées: Que pourrait-on faire pour régler ce problème, le limiter ou l'éviter?     
-
-Continuez la liste au besoin...
+Je n'ai rencontré aucun problème cette semaine.
 
 ## Le produit
+
 #### Si tu as réalisé un ou des projets pendant ton stage qui t'amenait à produire quelque chose, insère un lien permettant de voir la version préliminaire du ou des produits. Tu peux aussi insérer des photos ou vidéos de ton travail!
 
 ## Questions complémentaires
+
 ### Résumé de la semaine
+
+- Design des courriels infolettres
+- Montage de storys Instagram sur Adobe Photoshop
+- Intégration de courriels infolettres
+- Commencer l'intégration
+
 #### Liste des tâches accomplies cette semaine
 
 #### Liste des équipements ou logiciels utilisés
