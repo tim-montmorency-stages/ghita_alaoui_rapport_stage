@@ -14,131 +14,161 @@ Je n'ai rencontré aucun problème cette semaine.
 
 ### Résumé de la semaine
 
+#### Liste des tâches accomplies cette semaine
+
 - Design des courriels infolettres
 - Montage de storys Instagram sur Adobe Photoshop
 - Intégration de courriels infolettres
-- Commencer l'intégration
-
-#### Liste des tâches accomplies cette semaine
+- Commencer l'intégration en temps réel sur le site
 
 #### Liste des équipements ou logiciels utilisés
 
 #### Faits saillants de la semaine
 
+J'ai eu mon deuxième meeting pour ma proposition créative
+
 #### Nouvelles choses apprises (méthode de travail, tâche, fonction d'un logiciel, équipement,...)
 
-#### Avez-vous accompli l'ensemble de vos tâches et objectifs pour la semaine? Décrivez    
-- [ ] Complètement 
+J'ai appris comment coder dans SquareSpace
+
+#### Avez-vous accompli l'ensemble de vos tâches et objectifs pour la semaine? Décrivez
+
+- [X] Complètement 
 - [ ] Assez
 - [ ] Un peu
-- [ ] Pas tout à fait    
-Description: (Si non, expliquez comment pallier à la siutation).
+- [ ] Pas tout à fait
 
-#### Est-ce que votre mandat ou vos tâches se réalisent selon l'échéancier prévu?    
-- [ ] Complètement 
+#### Est-ce que votre mandat ou vos tâches se réalisent selon l'échéancier prévu?
+
+- [X] Complètement 
 - [ ] Assez
 - [ ] Un peu
-- [ ] Pas tout à fait    
-Description: (Si non, expliquez comment pallier à la siutation). 
-
+- [ ] Pas tout à fait
+         
 ### La dynamique du stage
+
 #### Mon degré d'apprentissage grâce à ce stage est:
+
 - [ ] Très élevé
-- [ ] Élevé
+- [X] Élevé
 - [ ] Acceptable
-- [ ] Insuffisant    
-Commentaires:
+- [ ] Insuffisant
+         
+Commentaires: J'apprends toujours des nouvelles petites techniques au fur et à mesure
 
 ####  Je me sens bien intégré.e au personnel du service ou département de mon stage.
-- [ ] Très d'accord
-- [ ] Assez d'accord
-- [ ] Peu d'accord
-- [ ] Pas d'accord     
-Commentaires:
 
-#### Je suis satisfait de mon stage jusqu'à maintenant.    
-- [ ] Complètement 
+- [ ] Très d'accord
+- [X] Assez d'accord
+- [ ] Peu d'accord
+- [ ] Pas d'accord
+  
+Commentaires: Je m'entends bien avec tout le monde
+
+#### Je suis satisfait de mon stage jusqu'à maintenant. 
+
+- [X] Complètement 
 - [ ] Assez
 - [ ] Un peu
-- [ ] Pas tout à fait    
-Commentaires:
+- [ ] Pas tout à fait
+         
+Commentaires: Mon stage correspond à mes attentes
 
 ### Qualité et validation du travail accompli
-#### Je porte une attention aux détails dans la réalisation de mes tâches. 
-- [ ] Très d'accord
-- [ ] Assez d'accord
-- [ ] Peu d'accord
-- [ ] Pas d'accord   
-Commentaires:
 
-#### Je propose des solutions appropriées aux problèmes rencontrés: 
-- [ ] Très d'accord
+#### Je porte une attention aux détails dans la réalisation de mes tâches.
+
+- [X] Très d'accord
 - [ ] Assez d'accord
 - [ ] Peu d'accord
-- [ ] Pas d'accord   
-Commentaires:
+- [ ] Pas d'accord
+       
+Commentaires: Je fais toujours attention à donner un travail de qualité
+
+#### Je propose des solutions appropriées aux problèmes rencontrés:
+
+- [X] Très d'accord
+- [ ] Assez d'accord
+- [ ] Peu d'accord
+- [ ] Pas d'accord
+       
+Commentaires: Je m'exprime un peu plus lorsque ça concerne mes projets
 
 ### Qualité du produit
+
 #### Je réalise un produit cohérent avec le concept et le mandat initial:
-- [ ] Très d'accord
+
+- [X] Très d'accord
 - [ ] Assez d'accord
 - [ ] Peu d'accord
 - [ ] Pas d'accord
 - [ ] Ne s'applique pas  
 
 #### Je développe une navigation ou une interactivité conviviale et fluide.
-- [ ] Très d'accord
+
+- [X] Très d'accord
 - [ ] Assez d'accord
 - [ ] Peu d'accord
 - [ ] Pas d'accord
 - [ ] Ne s'applique pas
 
 #### Je réalise un produit achevé d'une valeur esthétique réussie. 
-- [ ] Très d'accord
+
+- [X] Très d'accord
 - [ ] Assez d'accord
 - [ ] Peu d'accord
 - [ ] Pas d'accord
 - [ ] Ne s'applique pas
 
 #### J'offre une proposition artistique inventive et recherchée. (Si vous avez à faire des proposition artistiques)
-- [ ] Très d'accord
+
+- [X] Très d'accord
 - [ ] Assez d'accord
 - [ ] Peu d'accord
 - [ ] Pas d'accord
 - [ ] Ne s'applique pas
 
 ### Sens des responsabilités
+
 #### Je démontre qu'on peut me confier une tâche sans inquiétude:
-- [ ] Très d'accord
+
+- [X] Très d'accord
 - [ ] Assez d'accord
 - [ ] Peu d'accord
 - [ ] Pas d'accord   
 
 #### Je respecte les tâches et les mandats confiés:
-- [ ] Très d'accord
+
+- [X] Très d'accord
 - [ ] Assez d'accord
 - [ ] Peu d'accord
-- [ ] Pas d'accord     
-Commentaires:    
+- [ ] Pas d'accord
+          
+Commentaires: J'accomplis toutes les tâches qui me sont demandées    
 
 ### Travail d'équipe
+
 #### Je travaille en collaboration avec l'équipe.
-- [ ] Très d'accord
+
+- [X] Très d'accord
 - [ ] Assez d'accord
 - [ ] Peu d'accord
 - [ ] Pas d'accord
 - [ ] Ne s'applique pas   
 
 #### J'apporte ma contribution à l'entreprise et je fais avancer le travail par mes suggestions.
+
 - [ ] Très d'accord
-- [ ] Assez d'accord
+- [X] Assez d'accord
 - [ ] Peu d'accord
 - [ ] Pas d'accord   
 
 #### Je reconnais et profite de l'expertise des autres membres de l'équipe.
-- [ ] Très d'accord
+
+- [X] Très d'accord
 - [ ] Assez d'accord
 - [ ] Peu d'accord
 - [ ] Pas d'accord
-- [ ] Ne s'applique pas   
-Commentaires:    
+- [ ] Ne s'applique pas
+       
+Commentaires: Je profite de l'expérience du designer autant que je peux
