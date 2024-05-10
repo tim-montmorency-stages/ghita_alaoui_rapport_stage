@@ -20,8 +20,22 @@ https://www.tropikswimwear.com (non fini, sera fini à la semaine 7)
 
 - Design des courriels infolettres
 - Montage de storys Instagram sur Adobe Photoshop
+
+> Processus de création des storys :
+
+![story](medias/projets/processus_story.png)
+
 - Intégration de courriels infolettres
 - Commencer l'intégration en temps réel sur le site
+- Meeting pour la proposition finale
+
+> Points importants du meeting :
+
+![meeting](medias/projets/meeting_semaine_06.png)
+
+> Début de l'intégration :
+
+![site](medias/projets/programmation_site.png)
 
 #### Liste des équipements ou logiciels utilisés
 
