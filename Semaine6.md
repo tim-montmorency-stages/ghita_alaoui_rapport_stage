@@ -25,6 +25,17 @@ https://www.tropikswimwear.com (non fini, sera fini à la semaine 7)
 
 #### Liste des équipements ou logiciels utilisés
 
+- Adobe Photoshop
+- Adobe XD
+- Adobe After Effect
+- Salesforce
+- Excel
+- Word
+- Clavier
+- Souris
+- Mac
+- Écrans
+
 #### Faits saillants de la semaine
 
 J'ai eu mon deuxième meeting pour ma proposition créative
