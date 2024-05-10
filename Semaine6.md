@@ -10,6 +10,8 @@ Je n'ai rencontré aucun problème cette semaine.
 
 #### Si tu as réalisé un ou des projets pendant ton stage qui t'amenait à produire quelque chose, insère un lien permettant de voir la version préliminaire du ou des produits. Tu peux aussi insérer des photos ou vidéos de ton travail!
 
+https://www.tropikswimwear.com (non fini, sera fini à la semaine 7)
+
 ## Questions complémentaires
 
 ### Résumé de la semaine
