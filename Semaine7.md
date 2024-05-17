@@ -22,6 +22,10 @@ Résultat final : https://www.tropikswimwear.com/
 - Finalisation du visuel site web Tropik
 - Programmation de quelques aspects sur le site
 
+> Programmation du site :
+
+![programmation_site](medias/projets/programmation_site.png)
+
 #### Liste des équipements ou logiciels utilisés
 
 - Adobe Photoshop
