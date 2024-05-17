@@ -8,7 +8,7 @@
 
 > Premières lignes de code :
 
-![programmation_site](medias/projets/programmation_site.png)
+![programmation_site](medias/projets/programmation_debut.png)
 
 Résultat final : https://www.tropikswimwear.com/
 
