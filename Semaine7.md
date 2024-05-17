@@ -2,17 +2,11 @@
 ## Le produit
 #### Si tu as réalisé un ou des projets pendant ton stage qui t'amenait à produire quelque chose, insère un lien permettant de voir la version finale du ou des produits. Tu peux aussi insérer des photos ou vidéos de ton travail!
 
-Résultat final : https://www.tropikswimwear.com/
-
-> Processus de création :
+> Premières lignes de code :
 
 ![programmation_site](medias/projets/programmation_site.png)
 
-
-
-Image tests
-
-Image résultat
+Résultat final : https://www.tropikswimwear.com/
 
 ## Questions complémentaires
 
@@ -116,8 +110,6 @@ Justifications: Le stage correspondait au mandat qui m'avait été proposé init
 #### Commentaires sur le sens des responsabilités: 
 
 Je considère que j'ai été responsable durant ce stage, car je remplissais toutes mes tâches correctement et dans le délai demandé. Je m'assurais d'être toujours à l'heure le plus possible et de respecter ce qui était demandé de moi. De plus, je me suis bien organisée à l'aide de mes to-do lists et de mes prises de notes.
-
-Image de mes to do
 
 ### Gestion du temps
 
