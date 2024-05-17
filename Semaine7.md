@@ -26,6 +26,10 @@ Résultat final : https://www.tropikswimwear.com/
 
 ![programmation_site](medias/projets/programmation_site.png)
 
+> Intégration infolettres :
+
+![integration](medias/projets/integration_processus_02.png)
+
 #### Liste des équipements ou logiciels utilisés
 
 - Adobe Photoshop
