@@ -2,6 +2,10 @@
 ## Le produit
 #### Si tu as réalisé un ou des projets pendant ton stage qui t'amenait à produire quelque chose, insère un lien permettant de voir la version finale du ou des produits. Tu peux aussi insérer des photos ou vidéos de ton travail!
 
+> Premiers tests :
+
+![test_site](medias/maquettes/test_site.png)
+
 > Premières lignes de code :
 
 ![programmation_site](medias/projets/programmation_site.png)
