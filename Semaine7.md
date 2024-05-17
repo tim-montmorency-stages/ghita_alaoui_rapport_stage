@@ -6,7 +6,7 @@ Résultat final : https://www.tropikswimwear.com/
 
 Processus de création : 
 
-Image programmation
+medias/projets/programmation_site.png
 
 Image tests
 
