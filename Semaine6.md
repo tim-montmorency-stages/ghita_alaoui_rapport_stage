@@ -35,7 +35,7 @@ https://www.tropikswimwear.com (non fini, sera fini à la semaine 7)
 
 > Début de l'intégration :
 
-![site](medias/projets/programmation_site.png)
+![site](medias/projets/programmation_debut.png)
 
 #### Liste des équipements ou logiciels utilisés
 
