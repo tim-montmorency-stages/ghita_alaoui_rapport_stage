@@ -20,6 +20,17 @@ Résultat final : https://www.tropikswimwear.com/
 
 #### Liste des équipements ou logiciels utilisés
 
+- Adobe Photoshop
+- Adobe XD
+- Adobe After Effect
+- Salesforce
+- Excel
+- Word
+- Clavier
+- Souris
+- Mac
+- Écrans
+
 #### Faits saillants de la semaine
 
 Il ne s'est rien passé d'intéressant cette semaine.
