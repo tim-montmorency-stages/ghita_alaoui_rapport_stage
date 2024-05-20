@@ -56,6 +56,8 @@ Ensuite, j'ai commencé à imaginer le layout qui pourrait marcher et j'ai fait 
 
 ![About](medias/maquettes/collection_tropik_maquette_graphique.png)
 
+Ensuite, durant la semaine 3, j'ai eu un meeting dans lequel j'ai dû présenter officiellement mon idée de design à mes superviseurs et dans lequel je devais expliquer mes choix de design. Durant ce meeting, j'ai reçu des commentaires constructifs qui m'ont permis d'avancer.
+
 
 
 
