@@ -24,6 +24,8 @@ Durant mon mandat à Bikini Village, j’ai été initialement engagé comme sta
 - Je me suis occupé du design des bannières Facebook des marques
 - Je me suis occupé d’intégrer les courriels infolettres
 
+![NL_23_EN](medias/projets/nl_23_en.jpg)
+
 Toutes mes tâches ont été finies avant la fin de mon stage.
 
 ## Réalisation dont vous êtes le plus fier. Bons coups.
