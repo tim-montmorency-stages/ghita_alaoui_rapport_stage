@@ -98,7 +98,11 @@ Ensuite, j'ai recommencé les maquettes filaires, puis graphiques pour suivre ma
 
 ![where](medias/maquettes/where_maquette_graphique_new.png)
 
+À la semaine 6, j'ai eu mon deuxième meeting pour présenter l'avancement de mon projet. Le meeting s'est super bien passé et les seuls commentaires qui ont été dit étaient des suggestions supplémentaires pour rendre le layout encore plus complet. Mise-à part ça, mes superviseurs étaient très satisfait de mon travail.
 
+> Meeting de la semaine 6 :
+
+![meeting_v2](medias/projets/meeting_semaine_06.png)
 
 
 > Premiers tests :
