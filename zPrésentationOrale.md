@@ -24,6 +24,8 @@ Durant mon mandat à Bikini Village, j’ai été initialement engagé comme sta
 - Je me suis occupé du design des bannières Facebook des marques
 - Je me suis occupé d’intégrer les courriels infolettres
 
+![Infolettres](medias/projets/design_infolettre.png)
+
 ![NL_23_EN](medias/projets/nl_23_en.jpg)
 
 ![Artboard](medias/projets/artboard_processus.png)
