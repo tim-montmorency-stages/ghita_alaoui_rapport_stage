@@ -26,6 +26,13 @@ Durant mon mandat à Bikini Village, j’ai été initialement engagé comme sta
 
 ![NL_23_EN](medias/projets/nl_23_en.jpg)
 
+![Artboard](medias/projets/artboard_processus.png)
+
+![Montage](medias/projets/montage_processus.png)
+
+![integration](medias/projets/integration_processus.png)
+
+
 Toutes mes tâches ont été finies avant la fin de mon stage.
 
 ## Réalisation dont vous êtes le plus fier. Bons coups.
