@@ -76,7 +76,7 @@ De plus, voilà mes maquettes graphiques :
 
 ![About](medias/maquettes/collection_tropik_maquette_graphique.png)
 
-Enfin, voilà mon scénarimage :
+Enfin, voilà mon moodboard :
 
 > Moodboard :
 
