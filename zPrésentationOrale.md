@@ -30,6 +30,8 @@ Toutes mes tâches ont été finies avant la fin de mon stage.
 
 La réalisation dont laquelle je suis la plus fière est clairement le micro site Tropik que j’ai d’ailleurs utiliser pour ma proposition créative. Tous les micro sites de Bikini Village semblait avoir une structure assez similaire, et j’estime avoir vraiment proposé un layout complètement différent pour le site Tropik. C’est un site que j’ai créé de mes propres mains, sans aucune template et j’en suis assez fière. Mon bon coup serait très certainement le fait que j’ai su comment rajouter de la programmation SquareSpace à ce site, car sans ça, il ne serait pas aussi complet. 
 
+Voilà le résultat final du site Tropik : https://www.tropikswimwear.com/
+
 ## Ce que vous feriez différemment et les défis rencontrés.
 
 Le principal défi que j’ai rencontré est l’intégration dans la compagnie. J’ai commencé en janvier, mais malheureusement j’étais en télétravail à ce moment là. Ce n’est qu’au début du stage que j’ai commencé à venir au bureau plus souvent et je n’étais donc pas habituée à mes collègues en présentiel. Ce que j’aurais fait différemment aurait été de dîner plus souvent avec eux et essayer un peu plus de m’intégrer.
