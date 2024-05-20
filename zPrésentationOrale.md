@@ -58,6 +58,18 @@ Ensuite, j'ai commencé à imaginer le layout qui pourrait marcher et j'ai fait 
 
 Ensuite, durant la semaine 3, j'ai eu un meeting dans lequel j'ai dû présenter officiellement mon idée de design à mes superviseurs et dans lequel je devais expliquer mes choix de design. Durant ce meeting, j'ai reçu des commentaires constructifs qui m'ont permis d'avancer.
 
+> Notes du meeting de la semaine 3 :
+
+![Meeting](medias/projets/meeting.png)
+
+Par la suite, mes idées étaient beaucoup plus claires et je savais quel genre de layout marcherait avec la marque. J'ai donc refait le moodboard avec une nouvelle palette de couleur pour régler la principal critique qui était mentionné durant le meeting; soit la couleur rose. J'ai également changé quelques-unes de mes inspirations pour suivre un mouvement plus **bubbly* pour le design. 
+
+> Nouveau moodboard :
+
+![Moodboard_V2](medias/maquettes/moodboard_new.png)
+
+Ensuite, j'ai recommencé les maquettes filaires, puis graphiques pour suivre ma nouvelle idée.
+
 
 
 
