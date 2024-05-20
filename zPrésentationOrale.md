@@ -104,14 +104,21 @@ Ensuite, j'ai recommencé les maquettes filaires, puis graphiques pour suivre ma
 
 ![meeting_v2](medias/projets/meeting_semaine_06.png)
 
+Une fois les petites corrections faites, je commence l'intégration sur SquareSpace. Tout d'abord, je me fais quelques tests pour voir si mon layout sera possible sur la plateforme.
 
 > Premiers tests :
 
 ![test_site](medias/maquettes/test_site.png)
 
+Ensuite, je réalise que certaines sections nécessiteront de la programmation et j'ai dû apprendre par moi-même à programmer sur SquareSpace.
+
 > Premières lignes de code :
 
 ![programmation_site](medias/projets/programmation_debut.png)
+
+J'ai dû programmer pour modifier des détails tels que l'apparence en survol du menu principal, les boutons, la taille de certaines composantes sur mobile, l'apparence du pop up et plus encore. 
+
+Malgré tout mes efforts, il y a eu un aspect qui était sur ma maquette graphique que je n'ai pas pu intégrer dans le vrai site; la ligne de la page à propos. En effet, la plateforme SquareSpace ne me donnait pas le résultat souhaité et je n'ai pas réussi à programmer un bon résultat. J'ai dû donc improviser un autre layout ressemblant.
 
 Voilà le résultat final du site Tropik : https://www.tropikswimwear.com/
 
