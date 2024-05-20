@@ -40,23 +40,15 @@ Ma proposition créative consistait à refaire le site Tropik avec un nouveau la
 
 Ensuite, j'ai commencé à imaginer le layout qui pourrait marcher et j'ai fait mes maquettes filaires, puis graphiques.
 
-> Maquette graphique de la page accueil V1 :
-
-![Accueil](medias/maquettes/accueil_tropik_maquette_graphique_V1.png)
-
-> Maquette graphique de la page accueil V2 :
+> Maquette graphique de la page accueil :
 
 ![Acceuil](medias/maquettes/accueil_tropik_maquette_graphique_V2.png)
 
-> Aperçu Slider de la maquette graphique de la page accueil V2 :
+> Aperçu Slider de la maquette graphique de la page accueil :
 
 ![Slider](medias/maquettes/apercu_slider_accueil.png)
 
-> Maquette graphique de la page à propos V1 :
-
-![About](medias/maquettes/about_tropik_maquette_graphique_V1.png)
-
-> Maquette graphique de la page à propos V2 :
+> Maquette graphique de la page à propos :
 
 ![About](medias/maquettes/about_tropik_maquette_graphique_V2.png)
 
