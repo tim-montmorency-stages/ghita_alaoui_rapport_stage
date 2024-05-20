@@ -18,11 +18,15 @@ Durant mon mandat à Bikini Village, j’ai été initialement engagé comme sta
 - Je me suis occupé du design des courriels infolettres qui sont envoyées
 - Je me suis occupé de mettre à jour les micro sites 
 - Je me suis occupé du design complet de deux des micro sites (un était avant mon stage)
-- Je me suis occupé du design des story’s Instagram
-- Je me suis occupé de monter des story’s Instagram
+- Je me suis occupé du design des storys Instagram
+- Je me suis occupé de monter des storys Instagram
 - Je me suis occupé de monter des vidéos CROP pour les réseaux sociaux pour les nouvelles collections
 - Je me suis occupé du design des bannières Facebook des marques
 - Je me suis occupé d’intégrer les courriels infolettres
+
+![Banner_Roxy](medias/projets/roxy_banner.png)
+
+![NL_27_EN](medias/projets/nl_27_en.jpg)
 
 ![Infolettres](medias/projets/design_infolettre.png)
 
@@ -33,7 +37,6 @@ Durant mon mandat à Bikini Village, j’ai été initialement engagé comme sta
 ![Montage](medias/projets/montage_processus.png)
 
 ![integration](medias/projets/integration_processus.png)
-
 
 Toutes mes tâches ont été finies avant la fin de mon stage.
 
