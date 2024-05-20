@@ -30,6 +30,43 @@ Toutes mes tâches ont été finies avant la fin de mon stage.
 
 La réalisation dont laquelle je suis la plus fière est clairement le micro site Tropik que j’ai d’ailleurs utiliser pour ma proposition créative. Tous les micro sites de Bikini Village semblait avoir une structure assez similaire, et j’estime avoir vraiment proposé un layout complètement différent pour le site Tropik. C’est un site que j’ai créé de mes propres mains, sans aucune template et j’en suis assez fière. Mon bon coup serait très certainement le fait que j’ai su comment rajouter de la programmation SquareSpace à ce site, car sans ça, il ne serait pas aussi complet. 
 
+## Processus de ma proposition créative
+
+Ma proposition créative consistait à refaire le site Tropik avec un nouveau layout en utilisant aucune template. En premier lieu, je me suis imaginée un moodboard basé sur les couleurs utilisées lors d'un des courriels infolettres qui mettait en avant la marque. 
+
+> Moodboard :
+
+![Moodboard](medias/maquettes/moodboard.png)
+
+Ensuite, j'ai commencé à imaginer le layout qui pourrait marcher et j'ai fait mes maquettes filaires, puis graphiques.
+
+> Maquette graphique de la page accueil V1 :
+
+![Accueil](medias/maquettes/accueil_tropik_maquette_graphique_V1.png)
+
+> Maquette graphique de la page accueil V2 :
+
+![Acceuil](medias/maquettes/accueil_tropik_maquette_graphique_V2.png)
+
+> Aperçu Slider de la maquette graphique de la page accueil V2 :
+
+![Slider](medias/maquettes/apercu_slider_accueil.png)
+
+> Maquette graphique de la page à propos V1 :
+
+![About](medias/maquettes/about_tropik_maquette_graphique_V1.png)
+
+> Maquette graphique de la page à propos V2 :
+
+![About](medias/maquettes/about_tropik_maquette_graphique_V2.png)
+
+> Maquette graphique de la page collection :
+
+![About](medias/maquettes/collection_tropik_maquette_graphique.png)
+
+
+
+
 > Premiers tests :
 
 ![test_site](medias/maquettes/test_site.png)
