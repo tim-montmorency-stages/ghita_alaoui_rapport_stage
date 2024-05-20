@@ -118,7 +118,7 @@ Ensuite, je réalise que certaines sections nécessiteront de la programmation e
 
 J'ai dû programmer pour modifier des détails tels que l'apparence en survol du menu principal, les boutons, la taille de certaines composantes sur mobile, l'apparence du pop up et plus encore. 
 
-Malgré tout mes efforts, il y a eu un aspect qui était sur ma maquette graphique que je n'ai pas pu intégrer dans le vrai site; la ligne de la page à propos. En effet, la plateforme SquareSpace ne me donnait pas le résultat souhaité et je n'ai pas réussi à programmer un bon résultat. J'ai dû donc improviser un autre layout ressemblant.
+Malgré tout mes efforts, il y a eu un aspect qui était sur ma maquette graphique que je n'ai pas pu intégrer dans le vrai site; la ligne de la page **About**. En effet, la plateforme SquareSpace ne me donnait pas le résultat souhaité et je n'ai pas réussi à programmer un bon résultat. J'ai dû donc improviser un autre layout ressemblant. De plus, l'autre aspect qui était sur ma maquette graphique que je n'ai pas pu intégrer sur le vrai site est la bande des provinces sur la page **Where to buy**. En effet, je n'ai pas réussi à mettre un sytème d'encrage, donc je l'ai retirée.
 
 Voilà le résultat final du site Tropik : https://www.tropikswimwear.com/
 
