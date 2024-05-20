@@ -70,6 +70,34 @@ Par la suite, mes idées étaient beaucoup plus claires et je savais quel genre 
 
 Ensuite, j'ai recommencé les maquettes filaires, puis graphiques pour suivre ma nouvelle idée.
 
+> Home page maquette graphique :
+
+![home](medias/maquettes/home_maquette_graphique_new.png)
+
+> Slider 01 maquette graphique :
+
+![slider_01](medias/maquettes/slider_01_maquette_graphique_new.png)
+
+> Slider 02 maquette graphique :
+
+![slider_02](medias/maquettes/slider_02_maquette_graphique_new.png)
+
+> Pop up maquette graphique :
+
+![pop_up](medias/maquettes/pop_up_maquette_graphique.png)
+
+> À propos maquette graphique :
+
+![about](medias/maquettes/about_maquette_graphique_new.png)
+
+> Collection maquette graphique :
+
+![collection](medias/maquettes/collection_maquette_graphique_new.png)
+
+> Where to buy maquette graphique :
+
+![where](medias/maquettes/where_maquette_graphique_new.png)
+
 
 
 
