@@ -9,4 +9,4 @@ Durée: 7 à 10 minutes
 
 Insérez ici votre powerpoint ou lien vers votre documentation!
 
-https://github.com/tim-montmorency-stages/ghita_alaoui_rapport_stage
+https://tim-montmorency-stages.github.io/ghita_alaoui_rapport_stage/#/
